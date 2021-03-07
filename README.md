@@ -20,7 +20,7 @@ Features :
 
 Use version >=1.4.1 if you are using react-native 0.48+
 
-`$ yarn add https://github.com/Michaelvilleneuve/react-native-document-scanner`
+`$ yarn add https://github.com/mewt-app/react-native-document-scanner`
 
 `$ react-native link react-native-document-scanner`
 
